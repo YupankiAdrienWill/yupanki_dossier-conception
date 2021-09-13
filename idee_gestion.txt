@@ -1,0 +1,11 @@
+suggestion création site rapide, sans CMS, code simple (rapiditée d'affichage).
+
+CONDITIIONS:
+ - un site vitrine simple avec éventuellement des fonctions très simples (envoi de mail)
+ - le client ne fait pas de modif, mais celui qui a des acces serveurs (yupanki) peut modifier simplement tout les textes et photos (et vidéo éventuellement)
+
+MODE D'EMPLOI:
+ - aller dans l'arborescence des fichiers sur le serveurs via filezilla, li'interface de l'hébergeur ou le terminal
+ - a la racine du site, se trouve des fichiers et dossiers a ne pas toucher (code du site) et 2 dossiers contenant les fichiers modifiables: 
+    - textes : dossier contenant les fichiers de chaques titres/paragraphes, modifiables.
+    - img : dossier contenant toutes les images, enregistrer une image par dessus une autre (en mettant le meme nom) la remplacera sur le site.
