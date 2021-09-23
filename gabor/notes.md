@@ -8,3 +8,7 @@
   - couleurs de police:
     - #444444 => text de base et titre
     - #cccccc => text claire, secondaire
+  - font:
+    - Inter Regular
+    - Inter SemiBold
+    - Inter Bold
