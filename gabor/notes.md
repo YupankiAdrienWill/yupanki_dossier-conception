@@ -8,7 +8,7 @@
   - couleurs de police:
     - #444444 => text de base et titre
     - #cccccc => text claire, secondaire
-  - font:
+  - font: voir [fonts.google.com/specimen/Inter](https://fonts.google.com/specimen/Inter)
     - Inter Regular
     - Inter SemiBold
     - Inter Bold
