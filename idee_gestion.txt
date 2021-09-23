@@ -7,5 +7,5 @@ CONDITIIONS:
 MODE D'EMPLOI:
  - aller dans l'arborescence des fichiers sur le serveurs via filezilla, li'interface de l'hébergeur ou le terminal
  - a la racine du site, se trouve des fichiers et dossiers a ne pas toucher (code du site) et 2 dossiers contenant les fichiers modifiables: 
-    - textes : dossier contenant les fichiers de chaques titres/paragraphes, modifiables.
-    - img : dossier contenant toutes les images, enregistrer une image par dessus une autre (en mettant le meme nom) la remplacera sur le site.
+    - textes : dossier contenant les fichiers de chaque titres/paragraphes, modifiables.
+    - img : dossier contenant toutes les images, enregistrer une image par dessus une autre (en mettant le même nom) la remplacera sur le site.
